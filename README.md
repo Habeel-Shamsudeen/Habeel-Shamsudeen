@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Habeel Shamsudeen</h1>
 <h3 align="center">Passionate Computer Science Engineering Student | Coding Enthusiast | Full Stack Developer in the Making | Open to Exciting Opportunities</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=habeel-shamsudeen&label=Profile%20views&color=0e75b6&style=flat" alt="habeel-shamsudeen" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habeel-shamsudeen" alt="habeel-shamsudeen" /></a> </p>
 
 - 🔭 I’m currently working on **honing my skills in full-stack development**
