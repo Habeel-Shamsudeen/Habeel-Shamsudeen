@@ -23,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habeel-shamsudeen&show_icons=true&theme=dracula&title_color=ffffff&text_color=e0e0e0&locale=en" alt="habeel-shamsudeen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habeel-shamsudeen&theme=dark" alt="habeel-shamsudeen" /></p>
