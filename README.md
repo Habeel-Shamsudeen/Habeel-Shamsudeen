@@ -76,13 +76,13 @@ I am a **Computer Science Engineering** student passionate about full-stack deve
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">VSMS (Vehicle Service Management Software)</h3>
+      <h3 align="center">VServ</h3>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://vehicle-service-management-software.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-2a2e30?style=for-the-badge&logo=github&logoColor=white" alt="Vehicle Service Management Software">
         </a>
         <p>
-          <a href="#" target="_blank">
+          <a href="https://github.com/Habeel-Shamsudeen/VServ" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
@@ -92,7 +92,7 @@ I am a **Computer Science Engineering** student passionate about full-stack deve
     <td width="50%">
       <h3 align="center">GradeIT</h3>
       <div align="center">
-        <a href="https://github.com/Habeel-Shamsudeen/GradeIt.git" target="_blank">
+        <a href="https://grade-it-ten.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-2a2e30?style=for-the-badge&logo=github&logoColor=white" alt="GradeIT">
         </a>
         <p>
@@ -108,11 +108,11 @@ I am a **Computer Science Engineering** student passionate about full-stack deve
     <td width="50%">
       <h3 align="center">TaskFlow</h3>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://habeelstodoapp.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-2a2e30?style=for-the-badge&logo=github&logoColor=white" alt="TaskFlow">
         </a>
         <p>
-          <a href="#" target="_blank">
+          <a href="https://github.com/Habeel-Shamsudeen/TaskFlow" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
@@ -120,17 +120,17 @@ I am a **Computer Science Engineering** student passionate about full-stack deve
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Local Link</h3>
+      <h3 align="center">Blog Vault</h3>
       <div align="center">
-        <a href="#" target="_blank">
+        <a href="https://blog-vault-lake.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/View%20Project-2a2e30?style=for-the-badge&logo=github&logoColor=white" alt="Local Link">
         </a>
         <p>
-          <a href="#" target="_blank">
+          <a href="https://github.com/Habeel-Shamsudeen/BlogVault" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
-        <p>An award-winning platform designed to connect individuals with local service providers, streamlining the process of finding reliable professionals within local communities.</p>
+        <p>BlogVault is a modern blogging application that allows users to create an account, log in, create their own blog posts, and view blog posts posted by other users. It provides a seamless and intuitive user experience with a clean and minimalist interface.</p>
       </div>
     </td>
   </tr>
