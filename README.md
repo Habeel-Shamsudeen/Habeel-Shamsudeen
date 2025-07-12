@@ -6,7 +6,7 @@
 
 <img align="right" width=200px alt="Coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
-I am a **Computer Science Engineering** student passionate about full-stack development. With experience as a full-stack developer intern at YouseAI, I am constantly expanding my knowledge in modern web technologies. I love to learn and build something new, creative and impactful.
+I am a **Software Developer** passionate about full-stack development. With experience as a Sofware developer at Oddsview (YC W24) and as a full-stack developer intern at YouseAI, I am constantly expanding my knowledge in modern web technologies. I love to learn and build something new, creative and impactful.
 - 📚 I'm currently learning:
   - *Devops*
   - *Advanced Backend Communication*
@@ -67,26 +67,6 @@ I am a **Computer Science Engineering** student passionate about full-stack deve
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-<br>
-<br>
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Notable Projects***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Experience Section -->
-<img src="https://media.giphy.com/media/3oKIPeQ5Uz1smtGnat/giphy.gif" width="35">&nbsp; ***Experience***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### YouseAI | Full Stack Developer Intern
-#### Oct 2024 – Jan 2025 | Delhi, India
-
-> YouseAI is an innovative startup developing AI-powered SaaS solutions that help businesses create personalized virtual avatars and automate customer interactions.
-
-- Increased user engagement by 40% by developing a password-less email OTP login system and streamlined onboarding workflow for an AI-powered SaaS application
-- Reduced avatar creation time by 60% through Azure Storage-based preset models
-- Implemented application-wide analytics tracking and optimized UI components, fixing 15+ critical bugs
-- **Tech Stack**: Next.js, React, TypeScript, Node.js, Express.js, MongoDB, Prisma, Azure Storage
-
 <br>
 
 <!-- Github Stats -->
